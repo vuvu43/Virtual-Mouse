@@ -8,3 +8,7 @@ Você pode ter os seguintes dedos levantados:
 *  todos: dá exit no programa 
 
 Projeto feito utilzando OpenCV e medipipe.
+
+```console
+git clone https://github.com/vuvu43/Virtual-Mouse.git
+```
